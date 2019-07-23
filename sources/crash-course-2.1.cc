@@ -27,7 +27,7 @@ int main( int argc, char **argv )
 
     // A constant pointer to a constant char
     const char * const p4 = p2;
-    
+
     // A reference to a char
     char & r1 = *p2;
 
